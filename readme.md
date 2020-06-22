@@ -1,3 +1,4 @@
 # Jira Basics
-## Jira: Getting Started
 ## Atlassian: Jira Demos
+## Jira: Getting Started
+## User Story and Sprint

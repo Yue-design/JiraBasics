@@ -2,5 +2,5 @@
 
 ## Jira
 ## Postman
-## Github
+## Git
 ## VScode

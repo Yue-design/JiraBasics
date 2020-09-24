@@ -1,6 +1,7 @@
 # TOOLs
 
-## Jira
-## Postman
+## Chrome DevTools
 ## Git
 ## VScode
+## Jira
+## Postman

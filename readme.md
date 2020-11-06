@@ -20,8 +20,6 @@
 
 ## Docker & Kubernetes
 
-## Java Compiler & Java Vritual Machine (Linux/macOS)
-
-## IntelliJ
+## Java Compiler & Java Vritual Machine (Linux/macOS) & IntelliJ
 
 ## Mocha
